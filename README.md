@@ -13,7 +13,7 @@ AI-powered strategy tools that turn expertise into proof clients can act on. I s
 | Project | What It Does | Stack |
 |---------|-------------|-------|
 | **Dot Connector AI** | Runs structured strategy diagnostics across 12 subframeworks covering vision, product strategy, and GTM execution | OpenAI, Anthropic, LangGraph, Python, Airtable, Notion, Gamma |
-| **Wisory Score** | Scores PE investment targets across six indices with confidence tiers and decision bands | Claude API, Google Sheets, Python |
+| **Wisory Score** | Scores PE investment targets across six indices with confidence tiers and decision bands | OpenAI, Claude, Google Sheets, Python |
 | **Decision-to-Code Pipeline** | Compresses feature review decisions into shipped code in under 24 hours | Otter.ai, Claude, Claude Code, Google Sheets |
  
 ## Connect
