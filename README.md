@@ -4,7 +4,7 @@
 AI-powered strategy tools that turn expertise into proof clients can act on. I spent 21 years at Rocket Companies co-creating Rocket Mortgage and scaling it from $7B to $100B+ in annual volume. Now I build the systems I wish I'd had.
  
 ## What I'm Working On
-- 🔨 **Dot Connector AI** — A strategy and go-to-market operating system using LangGraph agent chains, structured workflows, and integrations with Airtable, Gamma, and Notion
+- 🔨 **Dot Connector AI** — A strategy and go-to-market operating system using LLMs, structurally layered intelligence, and integrations with Airtable, Gamma, and Notion
 - 🔨 **Tools for The Wisory** — A PE diligence scoring framework with six indices, two evaluation vectors, and decision bands built for investment committee prep
 - 📚 Learning Claude Code for cross-file framework maintenance and production deployment from decision logs
 - 📚 Learning LangGraph for agentic and deterministic apps with tracing
